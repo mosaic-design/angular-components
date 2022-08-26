@@ -1,0 +1,33 @@
+# firebase artifacts
+.firebase
+
+.env
+
+# folders
+.angular/
+node_modules/
+coverage/
+dist/
+tmp/
+temp/
+
+# Example module file will be auto-generated.
+/packages/mosaic-examples/example-module.ts
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# misc
+Thumbs.db
+yarn-debug.log*
+yarn-error.log*
+npm-debug.log
+*~
+*.sw[mnpcod]
+*.log
+*.tmp
+*.tmp.*
+
+# System Files
+.DS_Store
